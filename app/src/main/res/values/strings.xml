@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SCANER QR</string>
+    <string name="TextView">Result</string>
+</resources>
